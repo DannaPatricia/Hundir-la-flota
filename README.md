@@ -48,12 +48,12 @@ Para ejecutar el proyecto, sigue estos pasos:
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/DannaPatricia/hundir-la-flota.git
+    git clone https://github.com/DannaPatricia/Hundir-la-flota.git
     ```
 
 2. Navega al directorio del proyecto:
     ```bash
-    cd hundir-la-flota
+    cd Hundir-la-flota
     ```
 
 3. Compila el código:
