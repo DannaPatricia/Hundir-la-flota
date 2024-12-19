@@ -53,7 +53,7 @@ Para ejecutar el proyecto, sigue estos pasos:
 
 2. Navega al directorio del proyecto:
     ```bash
-    cd practicaFlota
+    cd Hundir-la-flota
     ```
 
 3. Compila el código:
