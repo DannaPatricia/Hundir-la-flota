@@ -4,7 +4,7 @@
 
 ---
 
-### Descripción del Proyecto
+### ✨ Descripción del Proyecto
 
 **Hundir la Flota** es un juego en el que dos jugadores deben colocar sus barcos en un tablero y tratar de hundir los barcos del oponente. Este proyecto implementa los siguientes aspectos clave:
 
@@ -17,7 +17,7 @@
 
 ---
 
-### Estructura del Proyecto
+### 🛠️ Estructura del Proyecto
 
 1. **`Tablero.java`**: Clase principal que maneja los tableros de ambos jugadores, la colocación de los barcos y la verificación de movimientos válidos.
 2. **`Ficha.java`**: Clase que representa cada celda en el tablero, indicando si está vacía o ocupada por un barco.
@@ -42,7 +42,7 @@
 
 ---
 
-### Ejecución del Proyecto
+### 🚀 Ejecución del Proyecto
 
 Para ejecutar el proyecto, sigue estos pasos:
 
@@ -68,7 +68,7 @@ Para ejecutar el proyecto, sigue estos pasos:
 
 ---
 
-### Capturas de Pantalla
+## 🎨 Capturas de Pantalla
 
 (Pendiente)
 ---
@@ -81,11 +81,20 @@ Para ejecutar el proyecto, sigue estos pasos:
 
 ---
 
-### Contribuciones
+## 🤝 Contribuciones
 
-Si tienes sugerencias o mejoras, ¡siéntete libre de abrir un **issue** o enviar un **pull request**!
+1. Haz un fork del repositorio.
+2. Crea una rama para tu funcionalidad:
+   ```bash
+    git checkout -b mejora-nueva-funcion
+3. Realiza los cambios y haz commmit:
+   ```bash
+   git commit -m "Añadida nueva función X"
+4. Haz push a tu rama:
+   ```bash
+    git push origin mejora-nueva-funcion
+5. Crea un pull request desde GitHub.
 
 ---
-
 ¡Gracias por tu interés en este proyecto! 🚀
 
