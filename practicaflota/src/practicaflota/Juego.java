@@ -1,6 +1,6 @@
 package practicaflota;
 
-import java.util.Scanner;
+import java.util.;
 
 public class Juego {
     public static final String ANSI_YELLOW = "\u001B[33m";
@@ -61,8 +61,8 @@ public class Juego {
     }
 
     public void mostrarReglas() {
-        System.out.println("1- Cada jugador dispondr· de un tiro por turno, con excepciones");
-        System.out.println("2- En caso de que un jugador le dÈ a un barco podr· tirar otra vez.");
+        System.out.println("1- Cada jugador dispondr√° de un tiro por turno, con excepciones");
+        System.out.println("2- En caso de que un jugador le d√© a un barco podr√° tirar otra vez.");
         System.out.println("3- No puedes atacar una casilla ya atacada");
         System.out.println("4- Gana el jugador que hunda la flota del contrario");
         System.out.println("FICHAS:");
