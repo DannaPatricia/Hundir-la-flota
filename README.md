@@ -1,6 +1,6 @@
 # 🛠️ Proyecto: Hundir la Flota
 
-¡Bienvenido/a! Este repositorio contiene un juego clásico de **Hundir la Flota** desarrollado en **Java**. A través de este proyecto, se ha utilizado la Programación Orientada a Objetos (POO), con técnicas como la herencia y la sobrecarga de métodos para crear una versión jugable del famoso juego de mesa.aaaaa
+¡Bienvenido/a! Este repositorio contiene un juego clásico de **Hundir la Flota** desarrollado en **Java**. A través de este proyecto, se ha utilizado la Programación Orientada a Objetos (POO), con técnicas como la herencia y la sobrecarga de métodos para crear una versión jugable del famoso juego de mesa.
 
 ---
 
