@@ -21,8 +21,7 @@
 
 1. **`Tablero.java`**: Clase principal que maneja los tableros de ambos jugadores, la colocación de los barcos y la verificación de movimientos válidos.
 2. **`Ficha.java`**: Clase que representa cada celda en el tablero, indicando si está vacía o ocupada por un barco.
-3. **`Barco.java`**: Clases de los distintos tipos de barcos que se pueden colocar en el tablero, como velero, fragata, buque, etc.
-4. **`Juego.java`**: Clase de control que gestiona la lógica del juego (turnos, disparos, y victorias).
+3. **`Juego.java`**: Clase de control que gestiona la lógica del juego (turnos, disparos, y victorias).
 
 ---
 
