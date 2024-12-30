@@ -1,6 +1,6 @@
 package practicaflota;
 
-import java.util.;
+import java.util.Scanner;
 
 public class Juego {
     public static final String ANSI_YELLOW = "\u001B[33m";
